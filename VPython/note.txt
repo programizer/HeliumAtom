@@ -1,0 +1,3 @@
+Für jede Anzahl an Elektronen sollte sich eine gebundene Lösung ergeben, solange sie die gleichen Abstand zum Kern und  Winkel gleichmäßig verteilt sind.
+(Oder eine andere Lösung gefunden wird damit sich Kraftbeträge nicht in Richtung des Kernes wegheben.)
+(Aber es scheint auch mit weniger Einschränkungen zu gehen... siehe CoolMistake...)
