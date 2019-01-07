@@ -3,7 +3,7 @@ Classical chaotic simulation of a toy model helium atom
 
 ## Step-by-step guide: (tested on Windows)
 
-- Download & Install [Anaconda](https://www.anaconda.com/download/).
+- Download & Install [Anaconda3](https://www.anaconda.com/download/).
 - Run the following commands in a terminal.
 ```
 conda install -c vpython vpython
