@@ -13,5 +13,5 @@ conda install spyder=3.1.4
 Paste code into spyder and run. Browser view with simulation should open.
 
 ## Acknowledgements
-Most of the credit goes to http://svbheuer.tumblr.com/post/107433096806/a-simple-n-body-simulation-my-brother-and-i .
-VPython homepage: http://vpython.org/
+http://svbheuer.tumblr.com/post/107433096806/a-simple-n-body-simulation-my-brother-and-i .
+http://vpython.org/
