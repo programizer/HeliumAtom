@@ -24,6 +24,9 @@ Paste code into spyder and run. Browser view with simulation should open.
 ### Troubleshooting
 In case you are having problems to run the code in this repo, feel free to open an issue here on [GitHub](https://github.com/programizer/HeliumAtom/issues).
 
+### Comment
+HeliumAtom.py is the main file. The folder vpython inludes further experimentation.
+
 ## Acknowledgements
 http://svbheuer.tumblr.com/post/107433096806/a-simple-n-body-simulation-my-brother-and-i      
 http://vpython.org/
