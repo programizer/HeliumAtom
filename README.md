@@ -3,7 +3,7 @@ Classical chaotic simulation of a toy model helium atom
 
 ## Usage
 ### Option 1: (any OS)
-- Either download [GlowScriptOffline](https://raw.githubusercontent.com/BruceSherwood/glowscript/master/GlowScriptOffline2.7.zip) from its original source or use the copy provided with this repo.
+- Since the original source seems to be defect ([GlowScriptOffline](https://raw.githubusercontent.com/BruceSherwood/glowscript/master/GlowScriptOffline2.7.zip)) I recommend using the copy provided with this repo.
 - Unzip.
 - Open GlowScript.html, which is located in the extracted folder, with your browser.
 - Either paste code from one of the python files in this repo (e.g. HeliumAtom.py) or open it by using the "Browse..."-button.
